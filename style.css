@@ -1,0 +1,16 @@
+img {
+	width: 12em;
+	padding: 1ch;
+}
+
+#navbarNav {
+	width: auto; /* Removes unncessary space from offcanvas navbar */
+}
+
+section {
+	padding: 2.5em; /* Ensures that when you click on a navbar link, no parts of the section go behind the navbar*/
+}
+
+nav {
+	background-color: rgba(256, 256, 256, 0.9); /* Makes navbar semi-transparent */
+}
